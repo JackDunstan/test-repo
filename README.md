@@ -19,6 +19,20 @@ Lemon Zest and orange slice
 
 -----------------
 
+#### Negroni
+
+Old Fashioned Glass
+
+_stir into glass over ice_
+
+- 25ml Italian Sweet Vermouth
+- 25ml Campari
+- 25ml Gin
+
+Orange slice (or blood orange if in season)
+
+-----------------
+
 #### Bellini
 
 Sparkling Wine Glass
