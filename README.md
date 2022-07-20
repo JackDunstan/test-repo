@@ -1,5 +1,6 @@
-# test-repo
-For testing user permissions in Github
+# Test Repository
+
+Includes some cocktails for your enjoyment
 
 
 -----------------
